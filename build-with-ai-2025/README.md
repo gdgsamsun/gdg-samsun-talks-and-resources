@@ -8,7 +8,7 @@ Bu klasör, **Build with AI 2025** etkinliğinde GDG Samsun tarafından gerçekl
 
 | Sunum Başlığı | Konuşmacılar | Dosya |
 |---------------|--------------|-------|
-| Kodla, Görevlendir, Keşfet: Agentic AI, MCP, Langflow | Onuralp SEZER, Merve Tosun | [PDF](Kodla_Gorevlendir_Kesfet_Agentic%20AI_MCP_Langflow.pdf) |
+| Kodla, Görevlendir, Keşfet: Agentic AI, MCP, Langflow | Onuralp SEZER, Merve TOSUN | [PDF](Kodla_Gorevlendir_Kesfet_Agentic%20AI_MCP_Langflow.pdf) |
 | Build with AI Introduction - GDG Samsun & GDG On Campus SAMU | Onur Can KARAMAN, Onuralp SEZER | [PDF](Build-with-ai-introduction-gdg-samsun-gdg-on-campus-samu.pdf) |
 
 ## 🛠️ Workshop
